@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sphrshahkaram
 - 👀 I’m interested in coding,learning,and overthinking ofcourse...
-- 🌱 I’m currently learning angular
+- 🌱 I’m always learning 
 - 📫 How to reach me :https://t.me/letskeepcoding and also sphrshahkram@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have lived in 4 cities for the past year!
